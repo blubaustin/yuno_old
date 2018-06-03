@@ -1,0 +1,8 @@
+{
+  "mal": {
+    "username": "blubaustin",
+    "password": "MAL_PASSWORD"
+  },
+  "token": "INSERT_TOKEN_HERE",
+  "expPerMessage": 15
+}

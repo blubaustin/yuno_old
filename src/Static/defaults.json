@@ -1,0 +1,6 @@
+{
+    "prefix": ".",
+    "embedColor": 16737962,
+    "memberLeaveMessage": "$user left $server",
+    "memberJoinMessage": "$user joined $server"
+}

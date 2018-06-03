@@ -1,0 +1,32 @@
+{
+    "goodjob": {
+        "replyText": "$author, I'm happy you like my cleaning!",
+        "imageURL": "http://i224.photobucket.com/albums/dd18/sabakuno-curse/thanks-1.png"
+    },
+    "hi": {
+        "replyText": "Hello, $author.",
+        "imageURL": "http://pa1.narvii.com/5740/e465ccd07efb07e74c3afe8b35e4a89ce1f4eb7d_hq.gif"
+    },
+    "hello": {
+        "replyText": "Hello, $author.",
+        "imageURL": "http://pa1.narvii.com/5740/e465ccd07efb07e74c3afe8b35e4a89ce1f4eb7d_hq.gif"
+    },
+    "goodbye": {
+        "replyText": "Goodbye, $author.",
+        "imageURL": "https://68.media.tumblr.com/09453dcf4c583290905ca43ac2e99643/tumblr_myjwybxmVL1sqqpkgo1_500.gif"
+    },
+     "goodnight": {
+        "replyText": "Good night, $author.",
+        "imageURL": "https://static.zerochan.net/Gasai.Yuno.full.868643.jpg"
+    },
+    "pet": {
+        "replyText": "You're joking $author,right?",
+        "imageURL": "https://lh4.googleusercontent.com/-JUwnYR5wOn0/UXYgq2MusNI/AAAAAAAADog/fuzFT7JBdoM/s1280/%255BFinal8%255DMirai%2520Nikki%2520-%252009%2520%2528BD%252010-bit%25201920x1080%2520x264%2520FLAC%2529%255B1062C09C%255D.mkv_snapshot_06.39_%255B2013.04.23_01.37.06%255D.jpg",
+        "customResponses": {
+            "239882051166142465": {
+                "replyText": "Sure. Pets $author.",
+                "imageURL": "https://i.ytimg.com/vi/nx-p6SymeU8/maxresdefault.jpg"
+            }
+        }
+    }
+}
